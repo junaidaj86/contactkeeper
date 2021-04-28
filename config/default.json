@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://junaid:dost1234@cluster0.hqabb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://junaid:dost1234@cluster0.hqabb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwt_secret": "secret"
 }
